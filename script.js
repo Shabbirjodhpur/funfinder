@@ -69,5 +69,6 @@ for(let i=1;i<=7;i++){
 	document.querySelector(`.test${i}`).addEventListener('mouseleave',()=>{
 		document.querySelector(`.test${i}`).style.fontWeight="400";
 		document.querySelector(`.test${i}`).style.opacity="100%";
+		document.getElementById('menu-background-pattern').style.backgroundSize="12vmin 12vmin"
 	});
 }
