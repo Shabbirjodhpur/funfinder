@@ -21,14 +21,8 @@ const combinations = [
 
 let prev = 0;
 
-var s = setInterval(() => {
-  const index = uniqueRand(0, combinations.length - 1, prev),
-        combination = combinations[index];
-  
-  wrapper.dataset.configuration = combination.configuration;
-  wrapper.dataset.roundness = combination.roundness;
-  
-  prev = index;
+var myInterval = setInterval(() => {
+  shift()
 }, 3000);
 //const dimensions = [
 //	[50,50,0,0],
@@ -57,7 +51,7 @@ for(let i=1;i<=7;i++){
 		document.getElementById('menu-background-pattern').style.left=`${dimensions[i-1][3]}vw`;
 		document.querySelector(`.test${i}`).style.fontWeight="900";
 		document.querySelector(`.test${i}`).style.opacity="70%";
-		clearInterval(s);
+		clearInterval(myInterval);
 	});
 	//document.querySelector(`.test${i}`).addEventListener('mouseleave',()=>{
 	//	document.getElementById('menu-background-pattern').style.backgroundSize="12vmin 12vmin"
@@ -72,14 +66,17 @@ for(let i=1;i<=7;i++){
 		document.querySelector(`.test${i}`).style.opacity="100%";
 		document.getElementById('menu-background-pattern').style.backgroundSize="12vmin 12vmin";
 		
-		s = setInterval(() => {
-			const index = uniqueRand(0, combinations.length - 1, prev),
-			combination = combinations[index];
-  
-			wrapper.dataset.configuration = combination.configuration;
-			wrapper.dataset.roundness = combination.roundness;
-  
-			prev = index;
+		shift();
+		myInterval = setInterval(() => {
+			shift()
 		}, 3000);
 	});
+}
+function shift(){
+	const index = uniqueRand(0, combinations.length - 1, prev),
+	combination = combinations[index];
+  	wrapper.dataset.configuration = combination.configuration;
+	wrapper.dataset.roundness = combination.roundness;
+
+	prev = index;
 }
