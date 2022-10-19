@@ -55,6 +55,8 @@ for(let i=1;i<=7;i++){
 		document.getElementById('menu-background-pattern').style.height=`${dimensions[i-1][1]}vh`;
 		document.getElementById('menu-background-pattern').style.top=`${dimensions[i-1][2]}vh`;
 		document.getElementById('menu-background-pattern').style.left=`${dimensions[i-1][3]}vw`;
+		document.querySelector(`.test${i}`).style.fontWeight="900";
+		document.querySelector(`.test${i}`).style.opacity="70%";
 	});
 	//document.querySelector(`.test${i}`).addEventListener('mouseleave',()=>{
 	//	document.getElementById('menu-background-pattern').style.backgroundSize="12vmin 12vmin"
@@ -64,4 +66,8 @@ for(let i=1;i<=7;i++){
 	//	document.getElementById('menu-background-pattern').style.top=`0vh`;
 	//	document.getElementById('menu-background-pattern').style.left=`0vw`;
 	//});
+	document.querySelector(`.test${i}`).addEventListener('mouseleave',()=>{
+		document.querySelector(`.test${i}`).style.fontWeight="400";
+		document.querySelector(`.test${i}`).style.opacity="100%";
+	});
 }

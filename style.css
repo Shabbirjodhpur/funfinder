@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Dancing+Script:wght@700&display=swap');
+
 body {
   height: 100vh;
   width: 100vw;
@@ -304,6 +307,7 @@ body.menu-toggled > .meta-link > span {
 	align-items:center;
 	justify-content:center;
 	text-align:center;
+	font-family: 'Chakra Petch', sans-serif;
 }
 #menu-background-pattern {
   background-image: radial-gradient(
@@ -321,4 +325,8 @@ body.menu-toggled > .meta-link > span {
     background-position 800ms ease;
   width: 100vw;
   z-index: -1;
+}
+#brand-name{
+	font-family: 'Dancing Script', cursive;
+	letter-spacing: 0.1em;
 }
