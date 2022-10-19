@@ -51,7 +51,6 @@ for(let i=1;i<=7;i++){
 		document.getElementById('menu-background-pattern').style.left=`${dimensions[i-1][3]}vw`;
 		document.querySelector(`.test${i}`).style.fontWeight="900";
 		document.querySelector(`.test${i}`).style.opacity="70%";
-		clearInterval(myInterval);
 	});
 	//document.querySelector(`.test${i}`).addEventListener('mouseleave',()=>{
 	//	document.getElementById('menu-background-pattern').style.backgroundSize="12vmin 12vmin"
@@ -65,13 +64,17 @@ for(let i=1;i<=7;i++){
 		document.querySelector(`.test${i}`).style.fontWeight="400";
 		document.querySelector(`.test${i}`).style.opacity="100%";
 		document.getElementById('menu-background-pattern').style.backgroundSize="12vmin 12vmin";
-		
+	});
+}
+document.getElementById('wrapper').addEventListener('mouseleave',()=>{
 		shift();
 		myInterval = setInterval(() => {
 			shift()
 		}, 3000);
-	});
-}
+});
+document.getElementById('wrapper').addEventListener('mouseover',()=>{
+		clearInterval(myInterval);
+});
 function shift(){
 	const index = uniqueRand(0, combinations.length - 1, prev),
 	combination = combinations[index];

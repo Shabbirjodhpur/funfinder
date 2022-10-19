@@ -308,6 +308,8 @@ body.menu-toggled > .meta-link > span {
 	justify-content:center;
 	text-align:center;
 	font-family: 'Chakra Petch', sans-serif;
+	color:black;
+	text-decoration: none;
 }
 #menu-background-pattern {
   background-image: radial-gradient(
