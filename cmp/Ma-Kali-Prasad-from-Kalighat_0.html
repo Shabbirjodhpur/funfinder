@@ -116,7 +116,7 @@
         <div style="
     width: 80vw;
     height: 40vh;
-    background: url('https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-kashi-prasad-of-baba-vishwanath-0-2021-6-21-t-19-58-43.jpg');
+    background: url('https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-ma-kali-prasad-from-kalighat-0-2021-6-21-t-20-0-52.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
@@ -214,7 +214,7 @@
     font-size: 1rem;
 ">
                         <div class="">
-                                <h1 id="event-name" class="text-primary text-uppercase" style="letter-spacing: 5px;margin: 0px;padding-bottom: 16px;color: black !important;border-bottom: 1px solid black;">Kashi Prasad of Baba Vishwanath</h1>
+                                <h1 id="event-name" class="text-primary text-uppercase" style="letter-spacing: 5px;margin: 0px;padding-bottom: 16px;color: black !important;border-bottom: 1px solid black;">Ma Kali Prasad from Kalighat</h1>
                                 <div style="
     display: flex;
     flex-direction: column;
@@ -238,7 +238,7 @@
                                                         <rect x="11" y="1.41162" width="1" height="2.82353" rx="0.5" fill="#0C172F"></rect>
                                                         <path d="M15.0984 6.02344V7.15285H1.89844V6.02344H15.0984Z" fill="#0C172F"></path>
                                                 </svg>
-                                                <span>Wed 21 Dec 2022 - Sat 31 Dec 2022</span>
+                                                <span>Tue 20 Dec 2022 - Sat 31 Dec 2022</span>
                                         </div>
                                         <div style="
     padding-bottom: 8px;
@@ -337,12 +337,7 @@
     padding-right: 24px;
 ">
 
-                                        <p style="margin-bottom: 0px;"><span>Situated on the western bank of the Holy Ganges, Shri Kashi Vishwanath Temple is regarded as one of the most popular Hindu temples dedicated to Lord Shiva. Located in the heart of Varanasi, the temple is a fulcrum of faith for billion Hindus. As per the Shaiva philosophy, it is believed that the Kas</span><span>...</span><span style="display:none;">hi Vishwanath temple is the centre of worship for centuries. The main deity of Kashi Vishwanath Temple is Lord Shiva, also known as Vishwanatha or Vishweshwarar meaning 'the ruler of the universe'. While devotees may not be able to visit the famed Kashi Vishwanath temple in Varanasi, they can now get "prasad" home delivered to the comforts of home.
-
-
-
-
-My Tirth India sends the Prasadam directly to your address containing Chandan, Sukha Mewa, Raksha Sutra, Bhasam, Ganga Jal, Rudraksha ka Dana, photo of Baba Vishwanath. Special Prasad with more ingredients can also be arranged through My Tirth India.
+                                        <p style="margin-bottom: 0px;"><span>Kalighat is regarded as one of the most visited Shakti Peethas of India - in the course of Shiva's Rudra Tandava, Kalighat represents the site where the toes of the right foot of Dakshayani or Mata Sati fell. The Shakti here is Dakshina Kali (the benevolent Mother of the World) while the Bhairav bei</span><span>...</span><span style="display:none;">ng Nakulish or Nakuleshwar. Prasad of Ma Kali from Kalighat Temple is arranged by My Tirth India to be sent to your Home across the length and breadth of the country.
 
 </span></p>
 					<p onclick="handleReadMore(this)" style="color:red;">Read More</p>
@@ -903,8 +898,10 @@ document.getElementById("submit-data").addEventListener("click",submitData);
 function submitData(){
 	var num = document.getElementById("number").value;
 	var method = document.getElementById("method").value;
-	var eventName = document.getElementById("event-name").innerText
-	const docRef = addDoc(collection(firestore, "Leads"), {num,method,eventName}).then(e=>{
+	var eventName = document.getElementById("event-name").innerText;
+	var temp = window.location.href.split("_");
+	var ref_id = temp[temp.length-1].split(".html")[0];
+	const docRef = addDoc(collection(firestore, "Leads"), {num,method,eventName,ref_id}).then(e=>{
 		if(e.id!=''){
 			document.getElementById("success").style.display="flex";
 			document.getElementById("popup-content").style.display="none";

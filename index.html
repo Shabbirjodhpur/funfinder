@@ -1057,7 +1057,7 @@
     <script src="js/index.js"></script>  
 	<script>
 		function redirectSubPage(obj){
-			window.location.href = window.location.href + '/cmp/' + obj.children[0].children[1].innerText.replaceAll(" ","-") + ".html";
+			window.location.href = window.location.href + '/cmp/' + obj.children[0].children[1].innerText.replaceAll(" ","-") + "_0.html";
 		}
 		function goTo(str){
 			document.getElementsByTagName("body")[0].scrollTop = document.getElementById(str).getBoundingClientRect().y;
