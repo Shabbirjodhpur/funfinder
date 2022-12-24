@@ -742,7 +742,7 @@ Ladies will be pampered with free #DRINKS till 9:30PM.
 			</div>
 	        </a>
 	</div>
-
+<!-- POP UP START -->
 <div id="cover" style="width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.8); position: fixed; z-index: 99; top: 0px; display: none;"></div>
 <div id="pop-up" style="width: 80vw; max-width: 500px; height: auto; padding: 16px; position: fixed; background: aliceblue; z-index: 100; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 16px; border: 2px solid black; display: none; flex-direction: column;">
     <img onclick="togglePopup();" src="https://img.icons8.com/windows/32/null/macos-close.png" style="
@@ -765,18 +765,34 @@ Ladies will be pampered with free #DRINKS till 9:30PM.
     align-items: center;
     justify-content: center;
 " id="popup-content"><div style="
-    max-width: 50%;
+    max-width: 90%;
     display: flex;
     flex-direction: column;
     align-items: center;
 ">
-    <p>Help us reach out to you</p>
-    <input type="text" placeholder="whatsapp number" style="
-    width: -webkit-fill-available;
-" id="number">
+    <p style="
+    text-align: center;
+">Help us reach out to you</p>
+
     <div style="
     display: flex;
+">
+    <p style="
+    margin-bottom: 0;
+    margin-right: 6px;
+    font-weight: 600;
+">+91</p><input type="text" placeholder="whatsapp number" style="
+    width: 100%;
+" id="number"></div>
+    <p id="invalid-phone-number" style="
+    margin-bottom: 0px;
+    color: red;
+    display: none;
+">*invalid phone number</p>
+<div style="
+    display: flex;
     flex-direction: column;
+    margin-top: 16px;
 ">
     <label>Choose from below</label>
     <select id="method">
@@ -805,8 +821,7 @@ Ladies will be pampered with free #DRINKS till 9:30PM.
     margin-left: 5px;
 "> Your data is not stored in any way!</p></div>
 </div></div>
-
-
+<!-- POP UP END -->
 
         <!-- JavaScript Libraries -->
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
@@ -911,6 +926,10 @@ document.getElementById("submit-data").addEventListener("click",submitData);
 
 function submitData(){
 	var num = document.getElementById("number").value;
+	if(parseInt("8686751120")/1000000000 < 1){
+		document.getElementById("invalid-phone-number").style.display = "block";
+		return;
+	}
 	var method = document.getElementById("method").value;
 	var eventName = document.getElementById("event-name").innerText;
 	var temp = window.location.href.split("_");
