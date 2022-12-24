@@ -1030,7 +1030,7 @@ document.getElementById("submit-data").addEventListener("click",submitData);
 
 function submitData(){
 	var num = document.getElementById("number").value;
-	if(parseInt("8686751120")/1000000000 < 1){
+	if(parseInt(num)/1000000000 < 1){
 		document.getElementById("invalid-phone-number").style.display = "block";
 		return;
 	}
