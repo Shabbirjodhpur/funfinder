@@ -1,0 +1,418 @@
+<div><div style="
+    display: flex;
+    background-color: white;
+    padding: 14px 16px;
+    font-size: 13px;
+    border-bottom: 1px solid black;
+">
+        <div><img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-TW9uLCAxOSBEZWMgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00343461-emvsyqvvlx-portrait.jpg" <="" div="" style="
+    width: 13vw;
+    height: 13vw;
+    border-radius: 50%;
+"></div>
+    <div style="width: -webkit-fill-available;">
+<div style="
+    display: flex;
+    flex-direction: column;
+    padding-left: 9px;
+">
+                                        <div style="
+    padding-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+">
+                                                
+                                                <span style="
+    font-weight: 600;
+">Snow Parks | English | 45mins</span><span>19/12/2022</span>
+                                        </div>
+                                        
+                                        <div style="
+    display: flex;
+    justify-content: space-between;
+"><div style="
+    padding-bottom: 8px;
+    display: flex;
+">
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <g clip-path="url(#clip0)">
+                                                                <circle cx="8" cy="6" r="2.4" stroke="#0C172F" stroke-width="1.2"></circle>
+                                                                <path d="M10.3321 1.50978C11.6159 2.15878 12.3811 2.91313 12.7821 3.72799C13.1818 4.54032 13.2556 5.48641 13.0179 6.59004C12.5337 8.83735 10.7951 11.5732 8.29618 14.6878C8.14421 14.8773 7.85561 14.8773 7.70364 14.6878C5.20507 11.5733 3.46656 8.83741 2.98235 6.5901C2.74455 5.48646 2.81836 4.54036 3.21795 3.72804C3.61878 2.91319 4.38385 2.15886 5.66738 1.50987C7.11906 0.775855 8.88039 0.77585 10.3321 1.50978Z" stroke="#0C172F" stroke-width="1.2"></path>
+                                                        </g>
+                                                        <defs>
+                                                                <clipPath id="clip0">
+                                                                        <rect width="16" height="16" fill="white"></rect>
+                                                                </clipPath>
+                                                        </defs>
+                                                </svg>
+                                                <p style="
+    margin-bottom: 0px;
+">Snow Kingdom: Hyderabad</p>
+                                        </div><div style="padding-bottom: 8px;">
+                                                <span>₹ 600</span>
+                                        </div></div>
+                                        
+                                </div><a id="CTA" onclick="togglePopup();" style="
+    display: none;
+">
+					<div class="" style="color: white;background-color: red;padding: 8px;border-radius: 12px;margin-bottom: 12px;margin-top: 12px;display: flex;justify-content: center;">
+						<span class="">BOOK NOW</span>
+					</div>
+				</a>
+    
+</div>
+</div><div style="
+    display: flex;
+    background-color: white;
+    padding: 14px 16px;
+    font-size: 13px;
+    border-bottom: 1px solid black;
+">
+        <div><img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-TW9uLCAxOSBEZWMgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00343461-emvsyqvvlx-portrait.jpg" <="" div="" style="
+    width: 13vw;
+    height: 13vw;
+    border-radius: 50%;
+"></div>
+    <div style="width: -webkit-fill-available;">
+<div style="
+    display: flex;
+    flex-direction: column;
+    padding-left: 9px;
+">
+                                        <div style="
+    padding-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+">
+                                                
+                                                <span style="
+    font-weight: 600;
+">Snow Parks | English | 45mins</span><span>19/12/2022</span>
+                                        </div>
+                                        
+                                        <div style="
+    display: flex;
+    justify-content: space-between;
+"><div style="
+    padding-bottom: 8px;
+    display: flex;
+">
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <g clip-path="url(#clip0)">
+                                                                <circle cx="8" cy="6" r="2.4" stroke="#0C172F" stroke-width="1.2"></circle>
+                                                                <path d="M10.3321 1.50978C11.6159 2.15878 12.3811 2.91313 12.7821 3.72799C13.1818 4.54032 13.2556 5.48641 13.0179 6.59004C12.5337 8.83735 10.7951 11.5732 8.29618 14.6878C8.14421 14.8773 7.85561 14.8773 7.70364 14.6878C5.20507 11.5733 3.46656 8.83741 2.98235 6.5901C2.74455 5.48646 2.81836 4.54036 3.21795 3.72804C3.61878 2.91319 4.38385 2.15886 5.66738 1.50987C7.11906 0.775855 8.88039 0.77585 10.3321 1.50978Z" stroke="#0C172F" stroke-width="1.2"></path>
+                                                        </g>
+                                                        <defs>
+                                                                <clipPath id="clip0">
+                                                                        <rect width="16" height="16" fill="white"></rect>
+                                                                </clipPath>
+                                                        </defs>
+                                                </svg>
+                                                <p style="
+    margin-bottom: 0px;
+">Snow Kingdom: Hyderabad</p>
+                                        </div><div style="padding-bottom: 8px;">
+                                                <span>₹ 600</span>
+                                        </div></div>
+                                        
+                                </div><a id="CTA" onclick="togglePopup();" style="
+    display: none;
+">
+					<div class="" style="color: white;background-color: red;padding: 8px;border-radius: 12px;margin-bottom: 12px;margin-top: 12px;display: flex;justify-content: center;">
+						<span class="">BOOK NOW</span>
+					</div>
+				</a>
+    
+</div>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-fluid" style="
+    padding: 0px;
+">
+      <div class="container pt-5">
+        <div class="mb-3 pb-3">
+          <h1 class="text-primary text-uppercase" style="letter-spacing: 5px;">
+            Browse By Category
+          </h1>
+          <h6>Explore Your Interests with us and make a plan!</h6>
+        </div>
+        <div class="row" style="
+    background-color: white;
+    justify-content: center;
+">
+          
+
+          
+          
+          
+          
+          <div onclick="goTo('Trending')" class="" style="
+    padding: 3px 15px;
+    border-bottom: 2px solid black;
+">
+            <div class="destination-item position-relative overflow-hidden mb-2">
+              
+         <p style="
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px;
+">Trending</p>     
+            </div>
+          </div>
+        <div onclick="goTo('Trending')" class="" style="
+    padding: 3px 15px;
+    color: rgba(0,0,0,0.3);
+">
+            <div class="destination-item position-relative overflow-hidden mb-2">
+              
+         <p style="
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px;
+">Sports</p>     
+            </div>
+          </div><div onclick="goTo('Trending')" class="" style="
+    padding: 3px 15px;
+    color: rgba(0,0,0,0.3);
+">
+            <div class="destination-item position-relative overflow-hidden mb-2">
+              
+         <p style="
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px;
+">Activities</p>     
+            </div>
+          </div><div onclick="goTo('Trending')" class="" style="
+    padding: 3px 15px;
+    color: rgba(0,0,0,0.3);
+">
+            <div class="destination-item position-relative overflow-hidden mb-2">
+              
+         <p style="
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px;
+">Trending</p>     
+            </div>
+          </div><div onclick="goTo('Trending')" class="" style="
+    padding: 3px 15px;
+    color: rgba(0,0,0,0.3);
+">
+            <div class="destination-item position-relative overflow-hidden mb-2">
+              
+         <p style="
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px;
+">Trending</p>     
+            </div>
+          </div><div onclick="goTo('Trending')" class="" style="
+    padding: 3px 15px;
+    color: rgba(0,0,0,0.3);
+">
+            <div class="destination-item position-relative overflow-hidden mb-2">
+              
+         <p style="
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px;
+">Trending</p>     
+            </div>
+          </div></div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div><div>
+    <div style="
+    display: flex;
+    justify-content: center;
+    background-color: white;
+">
+    <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-TW9uLCAxOSBEZWMgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00343461-emvsyqvvlx-portrait.jpg" style="
+    height: 50vh;
+    z-index: 1;
+">
+<img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-TW9uLCAxOSBEZWMgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00343461-emvsyqvvlx-portrait.jpg" style="
+    position: absolute;
+    height: 50vh;
+    width: 100vw;
+    z-index: 0;
+    filter: blur(2px);
+"></div><div class="container-fluid py-5" style="
+    padding-top: 0px !important;
+    padding-bottom: 36px !important;
+    max-width:500px;
+    background-color: white;
+    padding-left: 0px;
+">
+                <div class="container" style="
+    font-size: 1rem;
+">
+                        <div class="">
+                                <h1 id="event-name" class="text-primary text-uppercase" style="letter-spacing: 5px;font-size: 21px;padding-top: 12px;margin: 0px;/* padding-bottom: 16px; */color: black !important;/* border-bottom: 1px solid black; */">Snow Kingdom Hyderabad</h1>
+                                <div style="
+    display: flex;
+    flex-direction: column;
+    padding-top: 16px;
+">
+                                        
+                                        
+                                        <div style="
+    padding-bottom: 8px;
+">
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <g clip-path="url(#clip0)">
+                                                                <circle cx="8" cy="6" r="2.4" stroke="#0C172F" stroke-width="1.2"></circle>
+                                                                <path d="M10.3321 1.50978C11.6159 2.15878 12.3811 2.91313 12.7821 3.72799C13.1818 4.54032 13.2556 5.48641 13.0179 6.59004C12.5337 8.83735 10.7951 11.5732 8.29618 14.6878C8.14421 14.8773 7.85561 14.8773 7.70364 14.6878C5.20507 11.5733 3.46656 8.83741 2.98235 6.5901C2.74455 5.48646 2.81836 4.54036 3.21795 3.72804C3.61878 2.91319 4.38385 2.15886 5.66738 1.50987C7.11906 0.775855 8.88039 0.77585 10.3321 1.50978Z" stroke="#0C172F" stroke-width="1.2"></path>
+                                                        </g>
+                                                        <defs>
+                                                                <clipPath id="clip0">
+                                                                        <rect width="16" height="16" fill="white"></rect>
+                                                                </clipPath>
+                                                        </defs>
+                                                </svg>
+                                                <span>Snow Kingdom: Hyderabad</span>
+                                        </div>
+                                        <div style="padding-bottom: 8px;display: flex;justify-content: space-between;align-items: center;">
+                                                <span style="
+    font-size: 12px;
+">Imagine being shipped off to an exotic...</span>
+                                        <span style="
+    padding: 0px 21px;
+    background-color: red;
+    border-radius: 12px;
+    color: white;
+"><img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/long-arrow-up.png" style="
+    transform: rotate(90deg);
+"></span></div>
+                                </div>
+
+				
+
+                                <!--<div class="" style="color: #31C0F0;background-color: whitesmoke;padding: 8px;border-radius: 12px;">
+					<svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" fill="none" viewBox="0 0 25 18">
+                                                <path stroke="#31C0F0" stroke-width="1.2" d="M11.075 9.744l2.24.506c.192.043.408-.057.503-.256l.192-.401c.238-.495.504-1.05.747-1.602.315-.715.568-1.376.668-1.854.291-1.392-.098-2.555-.496-3.205-.773-1.26-1.693-1.521-2.225-1.408-.532.114-.939.355-1.274.745-.346.403-.638.992-.88 1.833-.2.693-.227 1.587-.157 2.55.069.956.229 1.929.374 2.768.027.16.15.288.308.324z"></path>
+                                                <path stroke="#31C0F0" stroke-miterlimit="10" stroke-width="1.2" d="M11.146 14.439h.003c.715.16 1.415-.224 1.613-.796l.003-.008.003-.007c.194-.515.347-1.05.512-1.627l.018-.061-2.75-.694-.074.26c-.157.554-.302 1.065-.395 1.586-.098.556.322 1.184 1.067 1.347z"></path>
+                                                <path fill="#31C0F0" d="M13.64 10.35l-3.17-.901s-.905-6.3.906-7.2c1.275-.634 2.614-1.002 3.622 0 1.811 1.8-1.358 8.1-1.358 8.1z"></path>
+                                                <path fill="#31C0F0" d="M0 0H2.804V2.789H0z" transform="matrix(.95445 .29836 -.30174 .95339 10.859 11.113)"></path>
+                                                <path stroke="#31C0F0" stroke-width="1.2" d="M6.919 11.768l-2.241.506c-.192.044-.408-.057-.503-.256-.06-.128-.125-.262-.192-.4-.237-.495-.503-1.05-.746-1.602-.316-.716-.569-1.377-.669-1.854-.29-1.392.098-2.555.497-3.206.772-1.26 1.692-1.52 2.224-1.407.533.113.94.354 1.274.744.347.403.639.992.88 1.833.2.694.227 1.587.158 2.55-.07.956-.23 1.929-.374 2.768-.028.16-.15.288-.308.324z"></path>
+                                                <path stroke="#31C0F0" stroke-miterlimit="10" stroke-width="1.2" d="M6.847 16.465h0-.002c-.716.16-1.416-.224-1.614-.795l-.003-.008-.002-.008c-.195-.514-.348-1.05-.513-1.627l-.017-.061c.927-.232 1.834-.461 2.75-.694l.074.26c.157.554.302 1.065.394 1.587.099.555-.321 1.183-1.067 1.346z"></path>
+                                                <path fill="#31C0F0" d="M4.131 12.15l3.17-.45s.452-6.749-1.359-7.65c-1.275-.633-1.709-.552-2.717.45-1.81 1.8.906 7.65.906 7.65z"></path>
+                                                <path fill="#31C0F0" d="M0 0H2.673V2.659H0z" transform="matrix(.95655 -.29158 .2949 .95553 4.584 14.28)"></path>
+                                        </svg>
+					<span class="">Step out and enjoy.</span>
+				</div> -->
+                        </div>
+                </div>
+        </div>
+</div><div>
+    <div style="
+    display: flex;
+    justify-content: center;
+    background-color: white;
+">
+    <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-RnJpLCAyMyBEZWMgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00344913-qtkdneetls-portrait.jpg" style="
+    height: 50vh;
+    z-index: 1;
+">
+<img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-RnJpLCAyMyBEZWMgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00344913-qtkdneetls-portrait.jpg" style="
+    position: absolute;
+    height: 50vh;
+    width: 100vw;
+    z-index: 0;
+    filter: blur(2px);
+"></div><div class="container-fluid py-5" style="
+    padding-top: 0px !important;
+    padding-bottom: 36px !important;
+    max-width:500px;
+    background-color: white;
+    padding-left: 0px;
+">
+                <div class="container" style="
+    font-size: 1rem;
+">
+                        <div class="">
+                                <h1 id="event-name" class="text-primary text-uppercase" style="letter-spacing: 5px;font-size: 21px;padding-top: 12px;margin: 0px;/* padding-bottom: 16px; */color: black !important;/* border-bottom: 1px solid black; */">Snow Kingdom Hyderabad</h1>
+                                <div style="
+    display: flex;
+    flex-direction: column;
+    padding-top: 16px;
+">
+                                        
+                                        
+                                        <div style="
+    padding-bottom: 8px;
+">
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <g clip-path="url(#clip0)">
+                                                                <circle cx="8" cy="6" r="2.4" stroke="#0C172F" stroke-width="1.2"></circle>
+                                                                <path d="M10.3321 1.50978C11.6159 2.15878 12.3811 2.91313 12.7821 3.72799C13.1818 4.54032 13.2556 5.48641 13.0179 6.59004C12.5337 8.83735 10.7951 11.5732 8.29618 14.6878C8.14421 14.8773 7.85561 14.8773 7.70364 14.6878C5.20507 11.5733 3.46656 8.83741 2.98235 6.5901C2.74455 5.48646 2.81836 4.54036 3.21795 3.72804C3.61878 2.91319 4.38385 2.15886 5.66738 1.50987C7.11906 0.775855 8.88039 0.77585 10.3321 1.50978Z" stroke="#0C172F" stroke-width="1.2"></path>
+                                                        </g>
+                                                        <defs>
+                                                                <clipPath id="clip0">
+                                                                        <rect width="16" height="16" fill="white"></rect>
+                                                                </clipPath>
+                                                        </defs>
+                                                </svg>
+                                                <span>Snow Kingdom: Hyderabad</span>
+                                        </div>
+                                        <div style="padding-bottom: 8px;display: flex;justify-content: space-between;align-items: center;">
+                                                <span style="
+    font-size: 12px;
+">Imagine being shipped off to an exotic...</span>
+                                        <span style="
+    padding: 0px 21px;
+    background-color: red;
+    border-radius: 12px;
+    color: white;
+"><img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/long-arrow-up.png" style="
+    transform: rotate(90deg);
+"></span></div>
+                                </div>
+
+				
+
+                                <!--<div class="" style="color: #31C0F0;background-color: whitesmoke;padding: 8px;border-radius: 12px;">
+					<svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" fill="none" viewBox="0 0 25 18">
+                                                <path stroke="#31C0F0" stroke-width="1.2" d="M11.075 9.744l2.24.506c.192.043.408-.057.503-.256l.192-.401c.238-.495.504-1.05.747-1.602.315-.715.568-1.376.668-1.854.291-1.392-.098-2.555-.496-3.205-.773-1.26-1.693-1.521-2.225-1.408-.532.114-.939.355-1.274.745-.346.403-.638.992-.88 1.833-.2.693-.227 1.587-.157 2.55.069.956.229 1.929.374 2.768.027.16.15.288.308.324z"></path>
+                                                <path stroke="#31C0F0" stroke-miterlimit="10" stroke-width="1.2" d="M11.146 14.439h.003c.715.16 1.415-.224 1.613-.796l.003-.008.003-.007c.194-.515.347-1.05.512-1.627l.018-.061-2.75-.694-.074.26c-.157.554-.302 1.065-.395 1.586-.098.556.322 1.184 1.067 1.347z"></path>
+                                                <path fill="#31C0F0" d="M13.64 10.35l-3.17-.901s-.905-6.3.906-7.2c1.275-.634 2.614-1.002 3.622 0 1.811 1.8-1.358 8.1-1.358 8.1z"></path>
+                                                <path fill="#31C0F0" d="M0 0H2.804V2.789H0z" transform="matrix(.95445 .29836 -.30174 .95339 10.859 11.113)"></path>
+                                                <path stroke="#31C0F0" stroke-width="1.2" d="M6.919 11.768l-2.241.506c-.192.044-.408-.057-.503-.256-.06-.128-.125-.262-.192-.4-.237-.495-.503-1.05-.746-1.602-.316-.716-.569-1.377-.669-1.854-.29-1.392.098-2.555.497-3.206.772-1.26 1.692-1.52 2.224-1.407.533.113.94.354 1.274.744.347.403.639.992.88 1.833.2.694.227 1.587.158 2.55-.07.956-.23 1.929-.374 2.768-.028.16-.15.288-.308.324z"></path>
+                                                <path stroke="#31C0F0" stroke-miterlimit="10" stroke-width="1.2" d="M6.847 16.465h0-.002c-.716.16-1.416-.224-1.614-.795l-.003-.008-.002-.008c-.195-.514-.348-1.05-.513-1.627l-.017-.061c.927-.232 1.834-.461 2.75-.694l.074.26c.157.554.302 1.065.394 1.587.099.555-.321 1.183-1.067 1.346z"></path>
+                                                <path fill="#31C0F0" d="M4.131 12.15l3.17-.45s.452-6.749-1.359-7.65c-1.275-.633-1.709-.552-2.717.45-1.81 1.8.906 7.65.906 7.65z"></path>
+                                                <path fill="#31C0F0" d="M0 0H2.673V2.659H0z" transform="matrix(.95655 -.29158 .2949 .95553 4.584 14.28)"></path>
+                                        </svg>
+					<span class="">Step out and enjoy.</span>
+				</div> -->
+                        </div>
+                </div>
+        </div>
+</div></div>
